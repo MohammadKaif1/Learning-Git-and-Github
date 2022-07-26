@@ -9,6 +9,6 @@ public class Swapping {
         a=b;
         b=temp;
         System.out.print("Swapped a and b are: "+a+" "+b);
-:
+
     }
 }
